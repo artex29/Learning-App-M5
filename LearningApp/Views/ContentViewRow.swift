@@ -34,6 +34,7 @@ struct ContentViewRow: View {
                 }
                 
             }.padding()
+             .tint(.black)
             
         }
         .padding(.bottom, 5)
