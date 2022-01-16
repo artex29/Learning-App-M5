@@ -27,7 +27,7 @@ struct CodeTextView: UIViewRepresentable {
             
         // Set the attributed text for the lesson
             
-            textView.attributedText = model.lessonDescription
+            textView.attributedText = model.codeText
             
             // Scroll back to the top
             
