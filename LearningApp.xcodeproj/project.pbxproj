@@ -24,6 +24,7 @@
 		FF846B182793860200EF79CC /* RectangleCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF846B172793860200EF79CC /* RectangleCard.swift */; };
 		FF846B3E2794B7E700EF79CC /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF846B3D2794B7E700EF79CC /* TestView.swift */; };
 		FF92003427889039002867EC /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF92003327889039002867EC /* Models.swift */; };
+		FF97298B27975D2D00F18EEC /* TestResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF97298A27975D2D00F18EEC /* TestResultView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		FF846B172793860200EF79CC /* RectangleCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RectangleCard.swift; sourceTree = "<group>"; };
 		FF846B3D2794B7E700EF79CC /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
 		FF92003327889039002867EC /* Models.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		FF97298A27975D2D00F18EEC /* TestResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestResultView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 				FF272CDB278A202200020FDF /* ContentViewRow.swift */,
 				FF272CDD2791F92700020FDF /* ContentDetailView.swift */,
 				FF846B3D2794B7E700EF79CC /* TestView.swift */,
+				FF97298A27975D2D00F18EEC /* TestResultView.swift */,
 				FF846ADF27923C6400EF79CC /* CodeTextView.swift */,
 				FF846B172793860200EF79CC /* RectangleCard.swift */,
 			);
@@ -228,6 +231,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FF846B3E2794B7E700EF79CC /* TestView.swift in Sources */,
+				FF97298B27975D2D00F18EEC /* TestResultView.swift in Sources */,
 				FF2F53C427866D720078FAED /* HomeView.swift in Sources */,
 				FF272CD8278909F900020FDF /* HomeViewRow.swift in Sources */,
 				FF272CDA2789F45A00020FDF /* ContentView.swift in Sources */,
